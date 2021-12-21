@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  ConvertorLiteForex
+
+  Created by Евгений Янушкевич on 19.11.2021.
+  
+*/
+"Конвертер валют" = "Nilai tukar";
+"Торговать" = "Berdagang";
+"Регистрация" = "Pendaftaran";
+"Фильтр" = "Menyaring";
+"Найти валюту..." = "Pencarian";
+"Конвертировать" = "Mengubah";
+"По умолчанию" = "Bawaan";
+"Конвертер" = "Membatalkan";
+"Выберите валюту:" = "Choose currnecy:";
+"https://my.litefinance.com/ru/registration" = "https://my.litefinance-idn.com/registration";
+"https://my.litefinance.com/ru/" = "https://my.litefinance-idn.com/";
+"График" = "Jadwal";
+"Отмена" = "Pembatalan";

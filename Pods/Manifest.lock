@@ -1,0 +1,28 @@
+PODS:
+  - BulletinBoard (5.0.0)
+  - JGProgressHUD (2.2)
+  - SideMenu (6.5.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - BulletinBoard
+  - JGProgressHUD
+  - SideMenu
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - BulletinBoard
+    - JGProgressHUD
+    - SideMenu
+    - SnapKit
+
+SPEC CHECKSUMS:
+  BulletinBoard: dba77053c2a7b64953f63073f7534165af2edd21
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 701454819000d3670976bbccb617750e3846e15c
+
+COCOAPODS: 1.10.1

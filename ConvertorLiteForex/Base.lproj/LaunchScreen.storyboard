@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="PFq-ot-6W7">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="gradient_fon" translatesAutoresizingMaskIntoConstraints="NO" id="uSf-sD-RMS">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo_launch" translatesAutoresizingMaskIntoConstraints="NO" id="wXG-VC-ZWj">
+                                <rect key="frame" x="147" y="389" width="120" height="118"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="120" id="31h-pr-ADA"/>
+                                    <constraint firstAttribute="height" constant="118" id="ln8-3M-UDR"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="Tjr-mz-Cd0"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="uSf-sD-RMS" firstAttribute="centerX" secondItem="PFq-ot-6W7" secondAttribute="centerX" id="9GX-ot-j3Z"/>
+                            <constraint firstItem="wXG-VC-ZWj" firstAttribute="centerX" secondItem="PFq-ot-6W7" secondAttribute="centerX" id="LoM-3w-nzJ"/>
+                            <constraint firstItem="wXG-VC-ZWj" firstAttribute="centerY" secondItem="PFq-ot-6W7" secondAttribute="centerY" id="eER-6w-x2s"/>
+                            <constraint firstItem="uSf-sD-RMS" firstAttribute="leading" secondItem="Tjr-mz-Cd0" secondAttribute="leading" id="f5c-rq-Kpf"/>
+                            <constraint firstAttribute="bottom" secondItem="uSf-sD-RMS" secondAttribute="bottom" id="fPC-dT-aP4"/>
+                            <constraint firstItem="uSf-sD-RMS" firstAttribute="centerY" secondItem="PFq-ot-6W7" secondAttribute="centerY" id="qoF-gJ-ykm"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.173913043478265" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="gradient_fon" width="360" height="640"/>
+        <image name="logo_launch" width="90" height="93"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

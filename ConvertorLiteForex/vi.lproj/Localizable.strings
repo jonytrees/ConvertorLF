@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  ConvertorLiteForex
+
+  Created by Евгений Янушкевич on 19.11.2021.
+  
+*/
+
+"Конвертер валют" = "Tỷ giá hối đoái";
+"Торговать" = "Buôn bán";
+"Регистрация" = "Ghi danh";
+"Фильтр" = "Bộ lọc";
+"Найти валюту..." = "Tìm kiếm";
+"Конвертировать" = "Đổi";
+"По умолчанию" = "Đổi";
+"Конвертер" = "Bộ chuyển đổi";
+"Выберите валюту:" = "Chọn đơn vị tiền tệ:";
+"https://my.litefinance.com/ru/registration" = "https://my.litefinance-vi.com/vi/registration";
+"https://my.litefinance.com/ru/" = "https://my.litefinance-vi.com/vi/";
+"График" = "Lịch trình";
+"Отмена" = "Huỷ bỏ";

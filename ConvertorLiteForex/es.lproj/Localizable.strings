@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  ConvertorLiteForex
+
+  Created by Евгений Янушкевич on 19.11.2021.
+  
+*/
+"Конвертер валют" = "Еipo de cambio";
+"Торговать" = "Social trading";
+"Регистрация" = "Comerciar";
+"Фильтр" = "Filtrar";
+"Найти валюту..." = "Buscar";
+"Конвертировать" = "Convertir";
+"По умолчанию" = "Defecto";
+"Конвертер" = "Convertidor";
+"Выберите валюту:" = "Elegir divisa:";
+"https://my.litefinance.com/ru/registration" = "https://my.litefinance.com/es/registration";
+"https://my.litefinance.com/ru/" = "https://my.litefinance.com/es/";
+"График" = "Calendario";
+"Отмена" = "Cancelación";

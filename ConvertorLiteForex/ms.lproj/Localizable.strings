@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  ConvertorLiteForex
+
+  Created by Евгений Янушкевич on 19.11.2021.
+  
+*/
+"Конвертер валют" = "Kadar pertukaran";
+"Торговать" = "Berniaga";
+"Регистрация" = "Pendaftaran";
+"Фильтр" = "Filter";
+"Найти валюту..." = "Carian";
+"Конвертировать" = "Menukar";
+"По умолчанию" = "Default";
+"Конвертер" = "Converter";
+"Выберите валюту:" = "Pilih Mata Wang:";
+"https://my.litefinance.com/ru/registration" = "https://my.litefinance.com/ms/registration";
+"https://my.litefinance.com/ru/" = "https://my.litefinance.com/ms/";
+"График" = "Jadual";
+"Отмена" = "Pembatalan";
